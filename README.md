@@ -2,3 +2,5 @@
 
 To start database, run:
 $ docker-compose up
+
+Thank you!
